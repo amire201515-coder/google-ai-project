@@ -1,0 +1,5 @@
+# Android Release Signing Configuration Example
+storeFile=../bimenovin-release-key.jks
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyAlias=bimenovin
+keyPassword=YOUR_KEY_PASSWORD

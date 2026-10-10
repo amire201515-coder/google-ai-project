@@ -1,0 +1,6 @@
+# نمونه تنظیمات امضای Release برای اندروید (بدون ثبت رمز در گیت)
+# این فایل را با نام key.properties ذخیره کنید و مقادیر خود را قرار دهید:
+storeFile=bimenovin-release-key.jks
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyAlias=bimenovin
+keyPassword=YOUR_KEY_PASSWORD

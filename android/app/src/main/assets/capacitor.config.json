@@ -1,0 +1,8 @@
+{
+	"appId": "com.hamzesavari.bimenovin",
+	"appName": "جستجوی مراکز بیمه نوین",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}

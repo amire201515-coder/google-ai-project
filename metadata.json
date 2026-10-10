@@ -1,0 +1,6 @@
+{
+  "name": "جستجوی مراکز بیمه نوین",
+  "description": "سامانه جستجو و دسترسی سریع به مراکز درمانی طرف قرارداد بیمه نوین به همراه مسیریابی، تماس، فیلتر شهر و به‌روزرسانی CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
